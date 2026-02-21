@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Henry+Chen;ZJU+Undergraduate;AI+%26+Embedded+Systems+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B+I'm+Henry+Chen;ZJU+Undergraduate;AI+%26+Embedded+Systems+Enthusiast" alt="Typing SVG" />
 </a>
 
 <!-- Social Badges -->
@@ -23,9 +23,9 @@
 <br><br>
 
 <!-- About Me + Tech Stack -->
-<table>
+<table border="0" cellspacing="0" cellpadding="20">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border: none;">
       <h3>🧑‍💻 About Me</h3>
       <br>
       <p align="left">
@@ -34,7 +34,7 @@
         &bull; Currently exploring deep learning & IoT projects
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border: none;">
       <h3>🛠️ Tech Stack</h3>
       <br>
       <img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,html,css,linux,git,github,vscode&theme=dark&perline=5" alt="Tech Stack" />
@@ -45,12 +45,12 @@
 <br>
 
 <!-- Stats + Languages -->
-<table>
+<table border="0" cellspacing="0" cellpadding="10">
   <tr>
-    <td width="50%">
+    <td width="50%" style="border: none;">
       <img src="https://raw.githubusercontent.com/cyhkbl/cyhkbl/output/stats.svg" alt="GitHub Stats" width="100%" />
     </td>
-    <td width="50%">
+    <td width="50%" style="border: none;">
       <img src="https://raw.githubusercontent.com/cyhkbl/cyhkbl/output/languages.svg" alt="Top Languages" width="100%" />
     </td>
   </tr>
@@ -66,14 +66,14 @@
 <br><br>
 
 <!-- Isocalendar + Snake -->
-<table>
+<table border="0" cellspacing="0" cellpadding="10">
   <tr>
-    <td width="50%">
+    <td width="50%" style="border: none;">
       <h3>📅 Contribution Calendar</h3>
       <br>
       <img src="https://raw.githubusercontent.com/cyhkbl/cyhkbl/output/isocalendar.svg" alt="Isocalendar" width="100%" />
     </td>
-    <td width="50%">
+    <td width="50%" style="border: none;">
       <h3>🐍 Contribution Graph</h3>
       <br>
       <picture>
