@@ -43,8 +43,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cyhkbl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyhkbl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/cyhkbl/cyhkbl/output/stats.svg" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/cyhkbl/cyhkbl/output/languages.svg" alt="Top Languages" />
 
 </div>
 
@@ -60,7 +60,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=cyhkbl&theme=onestar&no-bg=true&no-frame=true&column=7" alt="Trophies" />
+<img src="https://raw.githubusercontent.com/cyhkbl/cyhkbl/output/achievements.svg" alt="Achievements" />
 
 </div>
 
