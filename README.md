@@ -56,11 +56,11 @@
 
 ---
 
-### Trophies
+### Contribution Calendar
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cyhkbl/cyhkbl/output/achievements.svg" alt="Achievements" />
+<img src="https://raw.githubusercontent.com/cyhkbl/cyhkbl/output/isocalendar.svg" alt="Isocalendar" />
 
 </div>
 
@@ -73,8 +73,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/cyhkbl/cyhkbl/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/cyhkbl/cyhkbl/blob/output/github-snake-dark.svg" />
 </picture>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%" />
