@@ -29,7 +29,7 @@
       <h3>🧑‍💻 About Me</h3>
       <br>
       <p align="left">
-        &bull; Undergraduate <a href="https://www.zju.edu.cn/english/">Zhejiang University</a> College of Biomedical Engineering and Instrument Science<br>
+        &bull; Undergraduate <a href="https://www.zju.edu.cn/english/">@Zhejiang University</a> College of Biomedical Engineering and Instrument Science<br>
         &bull; Passionate about <b>AI</b> and <b>Embedded Systems</b><br>
         &bull; Currently exploring deep learning & IoT projects
       </p>
