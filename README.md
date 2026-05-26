@@ -38,14 +38,14 @@ tools:     [Linux, Git, VSCode, Docker]
 ### `> stats`
 
 <div align="center">
-  <img src="https://ghrstats.vercel.app/api?username=cyhkbl&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" width="48%" />
-  <img src="https://ghrstats.vercel.app/api/top-langs/?username=cyhkbl&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="40%" />
+  <img src="https://raw.githubusercontent.com/cyhkbl/cyhkbl/main/profile-3d-contrib/profile-season-animate.svg" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=cyhkbl&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f4d" width="70%" />
+  <img src="https://ghrstats.vercel.app/api?username=cyhkbl&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" width="48%" />
+  <img src="https://ghrstats.vercel.app/api/top-langs/?username=cyhkbl&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="40%" />
 </div>
 
 ---
