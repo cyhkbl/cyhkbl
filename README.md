@@ -38,7 +38,7 @@ tools:     [Linux, Git, VSCode, Docker]
 ### `> stats`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cyhkbl/cyhkbl/main/profile-3d-contrib/profile-season-animate.svg" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/cyhkbl/cyhkbl@main/profile-3d-contrib/profile-season-animate.svg" width="100%" />
 </div>
 
 <br />
