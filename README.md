@@ -1,11 +1,12 @@
 <div align="center">
 
 ```
- ____  _   _ ______   __
-| __ )| \ | |  _ \ \ / /
-|  _ \|  \| | | | \ V /
-| |_) | |\  | |_| || |
-|____/|_| \_|____/ |_|
+██╗     ██╗  █████╗  ███╗   ██╗██╗  ██╗
+██║     ██║ ██╔══██╗ ████╗  ██║██║ ██╔╝
+██║     ██║ ███████║ ██╔██╗ ██║█████╔╝
+██║     ██║ ██╔══██║ ██║╚██╗██║██╔██╗
+███████╗██║ ██║  ██║ ██║ ╚████║██║ ╚██╗
+╚══════╝╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═══╝╚═╝  ╚═╝
 ```
 
 **`ZJU` · College of Biomedical Engineering & Instrument Science**
@@ -37,8 +38,8 @@ tools:     [Linux, Git, VSCode, Docker]
 ### `> stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyhkbl&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyhkbl&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="40%" />
+  <img src="https://cdn.statically.io/gh/github-readme-stats/api?username=cyhkbl&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" width="48%" />
+  <img src="https://cdn.statically.io/gh/github-readme-stats/api/top-langs/?username=cyhkbl&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="40%" />
 </div>
 
 <br />
