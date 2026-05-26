@@ -38,8 +38,8 @@ tools:     [Linux, Git, VSCode, Docker]
 ### `> stats`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cyhkbl/cyhkbl/output/stats.svg" width="48%" />
-  <img src="https://raw.githubusercontent.com/cyhkbl/cyhkbl/output/languages.svg" width="40%" />
+  <img src="https://cdn.statically.io/gh/cyhkbl/cyhkbl@output/stats.svg" width="48%" />
+  <img src="https://cdn.statically.io/gh/cyhkbl/cyhkbl@output/languages.svg" width="40%" />
 </div>
 
 <br />
