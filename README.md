@@ -1,15 +1,16 @@
 <div align="center">
 
 ```
- _   _                      ____ _
-| | | |_   _ _ __  _ __   / ___| |__   ___  ___ _ __
-| |_| | | | | '_ \| '_ \ | |   | '_ \ / _ \/ _ \ '__|
-|  _  | |_| | | | | | | || |___| | | |  __/  __/ |
-|_| |_|\__,_|_| |_|_| |_| \____|_| |_|\___|\___|_|
+██╗  ██╗███████╗███╗   ██╗██████╗ ██╗   ██╗
+██║  ██║██╔════╝████╗  ██║██╔══██╗╚██╗ ██╔╝
+███████║█████╗  ██╔██╗ ██║██████╔╝ ╚████╔╝
+██╔══██║██╔══╝  ██║╚██╗██║██╔══██╗  ╚██╔╝
+██║  ██║███████╗██║ ╚████║██║  ██║   ██║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝
 ```
 
-**`ZJU` · Biomedical Engineering & Instrument Science**
-**`Focus` · AI · Embedded Systems · IoT**
+**`ZJU` · College of Biomedical Engineering & Instrument Science**
+**`Focus` · AI · Embedded Systems**
 
 [![Blog](https://img.shields.io/badge/Blog-cyhkbl.github.io-58a6ff?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDc3IDIgMiA2LjQ3NyAyIDEyczQuNDc3IDEwIDEwIDEwIDEwLTQuNDc3IDEwLTEwUzE3LjUyMyAyIDEyIDJ6bS0xIDE1di00bDQuMjQzLTQuMjQzIDEuNDE0IDEuNDE0TDEyIDE1aDUuNXYySEx6Ii8+PC9zdmc+)](https://cyhkbl.github.io)
 [![GitHub](https://img.shields.io/badge/cyhkbl-58a6ff?style=flat-square&logo=github&logoColor=white)](https://github.com/cyhkbl)
@@ -21,8 +22,8 @@
 ### `> whoami`
 
 ```yaml
-education: Zhejiang University, College of BME
-interests: [deep_learning, computer_vision, embedded_systems, iot]
+education: Zhejiang University, College of Biomedical Engineering & Instrument Science
+interests: [deep_learning, computer_vision, embedded_systems]
 currently: exploring AI + healthcare intersections
 lang:      [Python, C++, C, Arduino]
 tools:     [Linux, Git, VSCode, Docker]
@@ -52,7 +53,7 @@ tools:     [Linux, Git, VSCode, Docker]
 <div align="center">
 
 ```
-// keep shipping.
+Think Different.
 ```
 
 <img src="https://komarev.com/ghpvc/?username=cyhkbl&style=flat&color=1f6feb&label=views" />
