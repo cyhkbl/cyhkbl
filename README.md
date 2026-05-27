@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 ```
 ██████╗ ██╗      █████╗ ███╗   ██╗██╗  ██╗
@@ -40,15 +40,6 @@ tools:     [Linux, Git, VSCode, Docker]
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/cyhkbl/cyhkbl@main/profile-3d-contrib/profile-season-animate.svg" width="100%" />
 </div>
-
-<br />
-
-<div align="center">
-  <img src="https://ghrstats.vercel.app/api?username=cyhkbl&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" width="48%" />
-  <img src="https://ghrstats.vercel.app/api/top-langs/?username=cyhkbl&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="40%" />
-</div>
-
----
 
 <div align="center">
 
